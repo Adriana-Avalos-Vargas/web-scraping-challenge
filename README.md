@@ -28,7 +28,7 @@ It contains five different jupyter notebooks. Each notebook contains the code to
 
 * PDF document: Mission to Mars
 
-It is PDF printing of the web page result. *It is important to note that the button still do not works*.
+It is PDF printing of the web page result.
 
 The result is a web page that is shown in the next figure.
 
