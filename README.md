@@ -30,6 +30,8 @@ It contains five different jupyter notebooks. Each notebook contains the code to
 
 It is PDF printing of the web page result.
 
-The result is a web page that is shown in the next figure.
+The result is a web page that is shown in the next figures.
 
-![mission_to_mars_wp](web_page.png)
+![web page 1] (/web-scraping-challenge/web_page.png)
+![web page 2] (/web-scraping-challenge/web_page2.png)
+![web page 3] (/web-scraping-challenge/web_page3.png)
